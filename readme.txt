@@ -1,6 +1,4 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-ashley write something different.
-Ashley you should not give up.
-My stupid boss.
+this is my data archive.
+because I usual lost my data,which it's annoying.
+So this may contain some code writen by other people.
+There thanks their code, which help me a lot to achieve my research.
